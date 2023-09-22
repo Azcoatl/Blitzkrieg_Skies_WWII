@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/meyer/OneDrive/Documents/Unreal Projects/Blitzkrieg_Skies_WWII/Content/Levels/MainMenu.umap",
+				"C:/Users/meyer/OneDrive/Documents/Unreal Projects/Blitzkrieg_Skies_WWII/Content/Widgets/UV_MainMenu.uasset",
+				"C:/Users/meyer/OneDrive/Documents/Unreal Projects/Blitzkrieg_Skies_WWII/Content/Widgets/UW_MainMenu.uasset",
+				"C:/Users/meyer/OneDrive/Documents/Unreal Projects/Blitzkrieg_Skies_WWII/Content/Levels/LevelOne.umap",
+				"C:/Users/meyer/OneDrive/Documents/Unreal Projects/Blitzkrieg_Skies_WWII/Content/Assets/Boceto_SootemUp.uasset",
+				"C:/Users/meyer/OneDrive/Documents/Unreal Projects/Blitzkrieg_Skies_WWII/Content/Widgets/UW_Options.uasset",
 				"C:/Users/meyer/OneDrive/Documents/Unreal Projects/BlitzkriegSkiesWWII/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
