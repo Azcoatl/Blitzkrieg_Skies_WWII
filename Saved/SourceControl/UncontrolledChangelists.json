@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mokit/Documents/GitHub/Blitzkrieg_Skies_WWII/Content/BP/playerBP.uasset",
+				"C:/Users/mokit/Documents/GitHub/Blitzkrieg_Skies_WWII/Content/Levels/LevelOne.umap",
+				"C:/Users/mokit/Documents/GitHub/Blitzkrieg_Skies_WWII/Content/BP/gameModeBP.uasset",
+				"C:/Users/mokit/Documents/GitHub/Blitzkrieg_Skies_WWII/Content/BP/playerControllerBP.uasset",
+				"C:/Users/mokit/Documents/GitHub/Blitzkrieg_Skies_WWII/Content/Sprites/Avion.uasset",
+				"C:/Users/mokit/Documents/GitHub/Blitzkrieg_Skies_WWII/Content/Sprites/Avion1.uasset",
+				"C:/Users/mokit/Documents/GitHub/Blitzkrieg_Skies_WWII/Content/Sprites/Avion_Sprite.uasset",
 				"C:/Users/meyer/OneDrive/Documents/Unreal Projects/Blitzkrieg_Skies_WWII/Content/Levels/MainMenu.umap",
 				"C:/Users/meyer/OneDrive/Documents/Unreal Projects/Blitzkrieg_Skies_WWII/Content/Widgets/UV_MainMenu.uasset",
 				"C:/Users/meyer/OneDrive/Documents/Unreal Projects/Blitzkrieg_Skies_WWII/Content/Widgets/UW_MainMenu.uasset",
